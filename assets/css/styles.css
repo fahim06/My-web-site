@@ -740,7 +740,7 @@ border-radius: 1.5rem;
 .contact__title{
   text-align: center;
   font-size: var(--h3-font-size);
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem;
 }
 
 .contact__info{
@@ -862,6 +862,7 @@ border-radius: 1.5rem;
   display: flex;
   justify-content: center;
   column-gap: 1.25rem;
+  margin-top: 2rem;
 }
 
 .footer__social-link{
@@ -1125,5 +1126,8 @@ border-radius: 1.5rem;
     font-size: 2rem;
     padding: .4rem;
     border-radius: .5rem;
+  }
+  .footer__copy{
+    margin-bottom: 2rem;
   }
 }
