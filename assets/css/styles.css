@@ -835,6 +835,7 @@ border-radius: 1.5rem;
 /*=============== FOOTER ===============*/
 .footer{
   background-color: var(--first-color);
+  margin-top: 1rem;
 }
 
 .footer__container{
